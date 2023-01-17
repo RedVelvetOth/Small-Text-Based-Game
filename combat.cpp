@@ -317,9 +317,7 @@ void starting_menu()
     game_system(player1, player2);
 }
 
-/* void menu(){
 
-} */
 
 int main(int argc, char const *argv[])
 {
